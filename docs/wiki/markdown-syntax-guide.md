@@ -51,7 +51,7 @@ _You **can** combine them_
 
 ## Images
 
-![This is an alt text.](/image/sample.webp "This is a sample image.")
+![This is an alt text.](https://codeforces.org/s/92147/images/codeforces-sponsored-by-ton.png "This is a sample image.")
 
 ### Image alignment
 
