@@ -32,8 +32,8 @@ theme:
   font:
     text: "Space Grotesk"
   features:
-    - navigation.instant
-    - navigation.instant.progress
+    # - navigation.instant
+    # - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
     - navigation.prune
